@@ -1,0 +1,11 @@
+body{
+    margin: 2%;
+    padding: 2%;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    z-index: 2;
+}
